@@ -1,4 +1,4 @@
-from matplotlib import pyplot # importerer et bibliotek som kan lage diagrammer
+from matplotlib import pyplot # Install matplotlib før du begynner med oppgavene 
 
 '''
 oppgave 1
